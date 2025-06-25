@@ -7,7 +7,7 @@
  `..   `..     `..        `..
    `....
 
-Michelle Lynch
+Dan Koskiranta
 */
 
 #ifndef MATRIX_H_INCLUDED
