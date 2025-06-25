@@ -7,7 +7,7 @@
  `..   `..     `..        `..
    `....
 
-Michelle Lynch
+Dan Koskiranta
 */
 
 #include <iostream>   // cout
